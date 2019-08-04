@@ -6,7 +6,7 @@ Restrictions and requirements :
 
 CSE 348 Database Management Systems
 PROJECT
-Due Date: 19.05.2019 23:55
+
 
 1. CREATING TABLES OF THE PROJECT
 (i) Create tables for holding DISTRICTs and CITYs of Turkey. (Example District: Marmara, City:
